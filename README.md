@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hello guys 👋
+
+![programmer](https://user-images.githubusercontent.com/77895628/133884763-f80de1da-96c0-4f90-8cd6-3f6d393803c8.gif) 
+### Myself Mohammed Faizan I'm a Developer, Data science enthusiast. If you're here do see some of my works. 
+
+
 
 <!--
 **faizan3079/faizan3079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
