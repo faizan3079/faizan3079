@@ -1,7 +1,7 @@
 # Hello guys 👋
 
-![programmer](https://user-images.githubusercontent.com/77895628/133884763-f80de1da-96c0-4f90-8cd6-3f6d393803c8.gif) 
 ### Myself Mohammed Faizan I'm a Developer, Data science enthusiast. If you're here do see some of my works. 
+![code-programmer](https://user-images.githubusercontent.com/77895628/133884928-bbe7cbb5-2720-45d4-9d33-7341e6c9d383.gif)
 
 
 
