@@ -5,7 +5,6 @@
 
 ### Skills and Experience
 * 🐍 python
-* 🐬 MySQL
 * 💻 C, CPP
 
 ### Connect with me, via:
