@@ -1,7 +1,7 @@
 # Hello guys 👋
 
 ### Myself Mohammed Faizan I'm a Developer, Data science enthusiast. If you're here do see some of my works. 
- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/77895628/133884928-bbe7cbb5-2720-45d4-9d33-7341e6c9d383.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="500" height="320" />
 
 ### Skills and Experience
 * 🐍 python
