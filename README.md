@@ -4,6 +4,7 @@
  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="500" height="320" />
 
 ### Skills and Experience
+* SQL
 * 🐍 python
 * 💻 C, CPP
 
